@@ -3,8 +3,8 @@ This is a small movie recommendation system project that I made in Jupyter Noteb
 Currently, it provides some movies that are similar to a particular movie that the user inputs from the function in Python. 
 
 Roadmap:
-- Create frontend and website
-- Deploy using Heroku
+- Create frontend and website using Streamlit 
+- Deploy to cloud using Heroku
 - Add more movies and TV shows into the mix
 - Add filters to enhance the quality of movies recommended
 - Implement a different algorithm that finds similar movies through other ways. 
