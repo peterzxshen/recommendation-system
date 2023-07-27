@@ -10,8 +10,8 @@ Things that I have learnt and developed throughout this project:
 - Deploying my website to the cloud using Heroku and Git processes
 
 Roadmap:
--- Create frontend and website using Streamlit --
--- Deploy to cloud using Heroku -- 
+- ~~Create frontend and website using Streamlit~~
+- ~~Deploy to cloud using Heroku~~
 - Add more movies and TV shows into the mix
 - Add filters to enhance the quality of movies recommended
 - Implement a different algorithm that finds similar movies through other ways. 
